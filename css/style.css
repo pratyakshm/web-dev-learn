@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(234, 232, 232);
+    background-color:rgb(222, 252, 255);
     /* color = text-color */
     color:blueviolet;
     font-size: larger;
@@ -14,11 +14,14 @@ h1 {
     font-size: 70px;
 }
 
-div {
-    background:indianred;
+.top-one {
+    background-color:aquamarine;
 }
 
-span {
-    background:darkkhaki;
-    color:brown;
+.highlight {
+    background-color:blanchedalmond;
+}
+
+#bottom-one {
+    background-color:gainsboro;
 }
