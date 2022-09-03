@@ -1,0 +1,14 @@
+body {
+    background-color:rgb(234, 232, 232);
+    /* color = text-color */
+    color:blueviolet;
+    font-size: larger;
+}
+
+p {
+    color:#252525;
+}
+
+h1 {
+    font-size: 70px;
+}
