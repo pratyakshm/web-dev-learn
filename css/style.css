@@ -25,3 +25,20 @@ h1 {
 #bottom-one {
     background-color:gainsboro;
 }
+
+/* CSS Box Model:
+margin:
+padding:
+border: */
+
+.box {
+    background: darksalmon;
+    width: 350px;
+    margin: 150px;
+    border-width: 10px;
+    border-color: aqua;
+    border-style:solid;
+    border-right-color:azure;
+    /* OR
+    border: 5px solid green; */
+}
