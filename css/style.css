@@ -32,13 +32,14 @@ padding:
 border: */
 
 .box {
-    background: darksalmon;
+    background-image: url(../img/atom.png);
     width: 350px;
     margin: 150px;
     border-width: 10px;
     border-color: aqua;
     border-style:solid;
     border-right-color:azure;
+    background-size:cover;
     /* OR
     border: 5px solid green; */
 }
