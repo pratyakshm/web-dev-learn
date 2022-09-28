@@ -77,3 +77,7 @@ border: */
 }
 
 /* Calculate specificity from https://specificity.keegan.st */
+
+ol {
+    list-style-type: lower-alpha;
+}
