@@ -66,3 +66,14 @@ border: */
     /* OR
     border: 5px solid green; */
 }
+
+.my-body-text {
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+.my-body-text p {
+    color: rgb(0, 74, 49);
+}
+
+/* Calculate specificity from https://specificity.keegan.st */
