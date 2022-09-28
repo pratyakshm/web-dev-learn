@@ -7,7 +7,30 @@ body {
 }
 
 p {
-    color:#252525;
+    color:firebrick;
+    line-height: 40px;
+}
+
+/* This is the order of link colors which we need to follow */
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: red;
 }
 
 h1 {
