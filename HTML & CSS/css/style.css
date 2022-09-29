@@ -81,3 +81,8 @@ border: */
 ol {
     list-style-type: lower-alpha;
 }
+
+img {
+    float: left;
+    margin-right: 20px;
+}
